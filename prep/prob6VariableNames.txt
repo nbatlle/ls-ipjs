@@ -1,0 +1,12 @@
+Which of the following names satisfy the style guidelines for variable names?
+
+Name
+index         yes
+CatName       no, unless it's a constructor function - starts with Cap
+snake_case    no, but snake_case is great for Ruby!
+lazyDog       yes
+quick_Fox     no - mixing camels and snakes
+1stCharacter  no - starts with number
+operand2      yes - numbers are fine if you don't start with them
+BIG_NUMBER    yes if a constant
+

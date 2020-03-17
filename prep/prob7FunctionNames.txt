@@ -1,0 +1,12 @@
+Which of the following names satisfy the style guidelines for function names?
+
+Name
+index         yes
+CatName       yes if it's a constructor - starts with cap
+snake_case    no, no snake case in JS
+lazyDog       yes
+quick_Fox     no - mixing styles
+1stCharacter  no - starts with number
+operand2      yes
+BIG_NUMBER    not for function, yes for constant
+
